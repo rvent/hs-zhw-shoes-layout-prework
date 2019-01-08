@@ -25,25 +25,19 @@
 /* Posititoning Classes */
 
 .column {
-  position: relative;
   float: left;
   width: 31%;
   padding: 20px;
   margin: 1%;
 }
 
-.big_column {
-  position: relative;
-  float: left;
+.big {
   width: 64%;
-  padding: 10px;
-  margin: 1%;
   height: 100%;
+  padding: 10px;
 }
 
-.biggest_column {
-  float: left;
+.biggest {
   width: 98%;
   padding: 10px;
-  margin: 1%;
 }
