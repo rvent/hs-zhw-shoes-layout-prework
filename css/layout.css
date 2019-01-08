@@ -26,6 +26,7 @@
 
 .column {
   display: inline;
-  
+  float: left;
+  width: 33%;
 
 }
