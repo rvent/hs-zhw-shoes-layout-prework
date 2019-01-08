@@ -33,6 +33,7 @@
 }
 
 .big_column {
+  position: relative;
   float: left;
   width: 64%;
   padding: 10px;
