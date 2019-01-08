@@ -24,17 +24,11 @@
 
 /* Posititoning Classes */
 
-body, html {
-  height: 100%
-  min-height: 100%;
-}
-
 .column {
   float: left;
   width: 31%;
   padding: 20px;
   margin: 1%;
-  height: 50%;
 }
 
 .big {
@@ -47,4 +41,8 @@ body, html {
 .biggest {
   width: 98%;
   padding: 10px;
+}
+
+.first {
+  margin-left: 0;
 }
