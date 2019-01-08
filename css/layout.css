@@ -31,3 +31,11 @@
   padding: 20px;
   margin: 2%;
 }
+
+.big_column {
+  display: inline-block;
+  float: left;
+  width: 62%;
+  padding: 20px;
+  margin: 2%;
+}
