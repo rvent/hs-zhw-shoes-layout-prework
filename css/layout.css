@@ -25,7 +25,6 @@
 /* Posititoning Classes */
 
 .column {
-  display: inline-block;
   float: left;
   width: 31%;
   padding: 20px;
