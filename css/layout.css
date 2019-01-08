@@ -25,5 +25,6 @@
 /* Posititoning Classes */
 
 .column {
-    width: 33%;
+  float: left;
+  width: 33%;
 }
