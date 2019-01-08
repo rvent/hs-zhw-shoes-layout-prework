@@ -24,5 +24,6 @@
 
 /* Posititoning Classes */
 
-#details {
+.column {
+    width: 33%;
 }
